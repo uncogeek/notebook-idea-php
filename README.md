@@ -15,10 +15,12 @@ developed by PHP/MYSQL/JS/AJAX/HTML
 5. it's ready! you can add category and change settings from _settings_ link
 
 ## User Interface Screenshots
-![Install](http://uncogeek.ir/uploads/img/idea-project-install.png)
-![Login page](http://uncogeek.ir/uploads/img/idea-project-login.png)
-![Login page](http://uncogeek.ir/uploads/img/idea-project-setting.png)
-![Login page](http://uncogeek.ir/uploads/img/idea-project-home.png)
+<p align="center">
+  <img src="http://uncogeek.ir/uploads/img/idea-project-install.pnge" width="150" title="Install">
+  <img src="http://uncogeek.ir/uploads/img/idea-project-login.png" width="150" alt="login">
+  <img src="http://uncogeek.ir/uploads/img/idea-project-setting.pn" width="150" alt="setting">
+  <img src="http://uncogeek.ir/uploads/img/idea-project-home.png" width="150" alt="home">
+</p>
 
 
 ## Project Info
